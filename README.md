@@ -2,6 +2,15 @@
 
 This is what I'm up to right meow.  Inspired by [Liz](https://github.com/LearningNerd/now) & [nownownow.com](http://nownownow.com/).
 
+## October 2016
+
+September was a busy month that passed by so much faster than I anticipated:
+
+* I had a great time at GitHub Universe, exploring San Francisco by myself, and reconnecting with old friends in the Bay Area.
+* I helped coordinate the MaptimeLA trip to Catalina, and it turned out to be a blast!  We used the LA County Fire Station as our HQ, and Fire Captain Gary Black was an immense help.
+* Coding and crafting projects were pretty much on hold this month.  I needed a quick and easy creative outlet, so I did coloring instead.
+* I picked up ~10 books from the library on management/leadership and civic tech.  To move forward in my career, I need to decide on what I want.
+
 ## September 2016
 
 ### Life
